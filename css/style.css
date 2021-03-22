@@ -1,0 +1,23 @@
+.json-result-text-area{
+    width: 300px;
+    height: 200px!important;
+    font-size: 13px;
+    color: #343a40;
+}
+
+.action-btns button{
+    position: relative;
+    flex: 1 1 auto;
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid #515961;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
