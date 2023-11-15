@@ -30,4 +30,4 @@ $(document).ready(function() {
 
 
 # Reference
-- This project is a fork from: ([draw-polygon-over-images](https://github.com/kevnwei/draw-polygon-over-image))
+- This project originated as a fork from: ([draw-polygon-over-images](https://github.com/kevnwei/draw-polygon-over-image)), It has since been customized with several unique modifications.
